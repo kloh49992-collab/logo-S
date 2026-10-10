@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280" viewBox="0 0 1280 1280" fill="none">
+<title>Silver ribbon logo</title>
+<defs>
+<linearGradient id="silver" x1="300" y1="400" x2="850" y2="830" gradientUnits="userSpaceOnUse"><stop stop-color="#f7f8f9"/><stop offset="1" stop-color="#d0d2d4"/></linearGradient>
+<linearGradient id="light" x1="560" y1="350" x2="870" y2="770" gradientUnits="userSpaceOnUse"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#fafafb"/></linearGradient>
+<linearGradient id="fold" x1="540" y1="400" x2="900" y2="1030" gradientUnits="userSpaceOnUse"><stop stop-color="#e7e8e9"/><stop offset=".5" stop-color="#f4f5f6"/><stop offset="1" stop-color="#d6d8da"/></linearGradient>
+<linearGradient id="tip" x1="790" y1="300" x2="1010" y2="410" gradientUnits="userSpaceOnUse"><stop stop-color="#d5d7d9"/><stop offset="1" stop-color="#dfe0e2"/></linearGradient>
+</defs>
+<path d="M1043 158 C974 222 877 219 737 217 C598 203 470 259 387 342 C333 399 302 469 303 536 C302 644 395 712 503 735 C610 760 731 750 750 818 C759 761 717 710 650 662 C565 600 479 559 496 502 C509 439 576 435 677 462 C774 491 848 477 915 434 C1002 378 1038 272 1043 158Z" fill="url(#silver)"/>
+<path d="M1043 158 C974 222 877 219 737 217 C598 203 470 259 387 342 C335 427 411 520 493 578 C547 617 605 642 650 662 C565 600 479 559 496 502 C509 439 576 435 677 462 C780 365 831 337 923 289 C997 249 1039 204 1043 158Z" fill="url(#light)"/>
+<path d="M1043 158 C1038 272 1002 378 915 434 C848 477 774 491 677 462 C780 365 831 337 923 289 C997 249 1039 204 1043 158Z" fill="url(#tip)"/>
+<path d="M496 502 C507 429 584 380 687 358 C768 341 848 331 923 289 C831 337 780 365 677 462 C576 435 509 439 496 502Z" fill="url(#fold)"/>
+<path d="M303 536 C333 597 432 632 558 653 C653 669 736 714 750 818 C731 750 610 760 503 735 C395 712 302 644 303 536Z" fill="#d4d6d8"/>
+<path d="M526 490 C585 537 709 538 827 577 C929 611 1000 688 1001 777 C1007 889 913 985 802 1028 C695 1073 558 1059 437 1057 C334 1054 266 1082 215 1134 C256 1016 302 920 391 866 C485 810 563 826 664 845 C753 860 789 816 780 753 C769 675 640 608 526 490Z" fill="url(#fold)"/>
+<path d="M526 490 C585 537 709 538 827 577 C929 611 1000 688 1001 777 C1005 844 973 902 923 948 C969 884 918 816 850 743 C774 676 653 619 526 490Z" fill="url(#light)"/>
+<path d="M215 1134 C256 1016 302 920 391 866 C485 810 563 826 664 845 C753 860 789 816 780 753 C769 675 640 608 526 490 C590 574 724 629 768 700 C806 759 776 832 710 886 C624 959 516 965 402 995 C318 1017 256 1067 215 1134Z" fill="url(#light)"/>
+<path d="M850 743 C918 816 969 884 923 948 C882 990 819 1025 743 1047 C850 988 908 845 861 765Z" fill="#d7d9db"/>
+</svg>
